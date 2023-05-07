@@ -1,2 +1,4 @@
 # KWIC
 KWIC SOURCE CODE
+
+一次作业 非原创
